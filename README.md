@@ -8,18 +8,23 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ Part A set up the dartboard and threw 10 darts to test it.
+ Part B plays the dart game between 2 palyers.
+ Part C uses the darts to estimate pi.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 4/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ Sometimes the dartboard (the square) will be a rectangle and the circle will be an oval when I tested it in another replit even though the scales was not changed. This is not a probelm on VS Code.
 
 ## REFERENCES:
- < List any outside resources used >
+https://docs.python.org/3/library/turtle.html#turtle.circle
+https://docs.python.org/3/library/random.html
+https://docs.python.org/3/library/turtle.html#turtle.dot
+https://docs.python.org/3/library/turtle.html#turtle.color
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ Have a nice day! :)
